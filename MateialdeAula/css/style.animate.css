@@ -1,0 +1,23 @@
+
+#caixa{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    border-style: none;
+    border-style: solid;
+    border-color: black;
+}
+
+.botao{
+    background-color: slateblue;
+    color: white;
+    border-style: none;
+    border-radius: 10px;
+    padding: 7px;
+
+}
